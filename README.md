@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gesa777
 - 👀 I’m interested in mathematics, theoretical physics, programming in c++ and python, machine learning and deep learning
 - 🌱 I’m currently learning deep learning algorithms such as neural networks
-- 💞️ I’m looking to collaborate on data sciences project
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me : hello@maximebaczyk.fr
 
 <!---
